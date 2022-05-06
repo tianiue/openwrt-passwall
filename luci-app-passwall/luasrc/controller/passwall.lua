@@ -488,3 +488,4 @@ function hysteria_update()
 
 	http_write_json(json)
 end
+
